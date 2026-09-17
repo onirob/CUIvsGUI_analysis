@@ -1,0 +1,2 @@
+contrast,estimate,SE,df,asymp.LCL,asymp.UCL,z.ratio,p.value,lower.CL,upper.CL,p.value.raw,supports_chatbot_lower,ci_excludes_zero
+dashboard_minus_chatbot,1.1417077801549826,0.2059265132753904,Inf,0.7380992306733082,1.5453163296366572,5.544248586524406,2.9521917634750703e-8,0.7380992306733082,1.5453163296366572,2.9521917634750703e-8,TRUE,TRUE

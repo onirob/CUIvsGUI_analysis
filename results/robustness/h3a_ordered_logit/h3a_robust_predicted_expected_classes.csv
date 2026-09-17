@@ -1,0 +1,7 @@
+interface,dl_ord,expected_class
+chatbot,low,5.717791886678079
+chatbot,medium,6.51398967932744
+chatbot,high,5.153716696220276
+dashboard,low,10.460278138135047
+dashboard,medium,8.593057785085358
+dashboard,high,8.58748244992478

@@ -1,0 +1,2 @@
+contrast,low_dl,high_dl,delta_dashboard,delta_chatbot,diff_prob,diff_prob_CI_low_boot,diff_prob_CI_high_boot,avg_logit_contrast,SE_robust,z,p_value,ratio_OR,ratio_OR_CI_low,ratio_OR_CI_high
+[high-low DL] in dashboard - [high-low DL] in chatbot,G1_lowest,G5_highest,0.0031904408967963205,-0.015641256072528975,0.018831696969325296,-0.0727626194420666,0.09861214263781047,0.12859086294165,0.313195975234746,0.41057635828579486,0.6813832022183904,1.1372247481827886,0.6155359245435321,2.101063603783118

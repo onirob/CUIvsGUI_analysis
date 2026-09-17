@@ -1,0 +1,4 @@
+analysis,test,statistic_name,statistic,df,p_value,n
+Industry role vs participant-level accuracy,Kruskal-Wallis,H,0.10113941444828066,2.0,0.9506876565649678,134
+Ordinal trend: industry role code vs participant-level accuracy,Spearman rank correlation,rho,-0.0253528285425862,,0.7712215368341242,134
+Industry role balance across interface condition,Chi-square,X-squared,1.0786038165266096,2.0,0.5831552061425502,134

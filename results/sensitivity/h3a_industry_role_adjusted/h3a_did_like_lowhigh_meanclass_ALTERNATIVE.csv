@@ -1,0 +1,2 @@
+contrast,estimate,SE,df,asymp.LCL,asymp.UCL,z.ratio,p.value,lower.CL,upper.CL,p.value.raw,p.value.holm,holm_reject_0.05,supports_h3a_if_higher_dl_lowers_mwl,ci_excludes_zero
+dashboard_minus_chatbot,-2.013654730106815,1.7430073072049026,Inf,-5.429886277018565,1.4025768168049355,-1.1552761263725992,0.24797736910599297,-5.429886277018565,1.4025768168049355,0.24797736910599297,0.24797736910599297,FALSE,TRUE,FALSE

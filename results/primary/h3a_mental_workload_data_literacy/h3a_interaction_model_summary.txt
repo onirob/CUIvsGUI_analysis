@@ -1,0 +1,47 @@
+Cumulative Link Mixed Model fitted with the adaptive Gauss-Hermite 
+quadrature approximation with 10 quadrature points 
+
+formula: 
+y_ord ~ interface_cond * dl_ord + task_complexity + (1 | participant_id)
+data: df
+
+ link threshold nobs logLik AIC niter max.grad cond.H 
+ probit flexible 402 -1007.50 2067.00 4841(14411) 1.97e-03 4.6e+03
+
+Random effects:
+ Groups Name Variance Std.Dev.
+ participant_id (Intercept) 0.8288 0.9104 
+Number of groups: participant_id 134 
+
+Coefficients:
+ Estimate Std. Error z value Pr(>|z|) 
+interface_conddashboard 1.9077 0.5216 3.658 0.000254 ***
+dl_ordmedium 0.4119 0.3890 1.059 0.289559 
+dl_ordhigh -0.1455 0.4350 -0.334 0.738104 
+task_complexitymid 0.4136 0.1272 3.251 0.001149 ** 
+task_complexityhard 1.5340 0.1422 10.784 < 2e-16 ***
+interface_conddashboard:dl_ordmedium -1.0903 0.5718 -1.907 0.056543 . 
+interface_conddashboard:dl_ordhigh -0.5762 0.6307 -0.914 0.360924 
+---
+Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Threshold coefficients:
+ Estimate Std. Error z value
+0|5 -1.1278 0.3681 -3.064
+5|10 -0.3057 0.3595 -0.850
+10|15 0.2147 0.3591 0.598
+15|20 0.6524 0.3602 1.811
+20|25 1.0503 0.3627 2.896
+25|30 1.3229 0.3647 3.627
+30|35 1.5717 0.3665 4.289
+35|40 1.7890 0.3681 4.860
+40|45 2.1493 0.3714 5.787
+45|50 2.3240 0.3731 6.228
+50|55 2.6120 0.3762 6.944
+55|60 2.9136 0.3800 7.667
+60|65 3.4067 0.3892 8.753
+65|70 3.7308 0.3971 9.394
+70|75 4.2563 0.4164 10.222
+75|80 4.6906 0.4411 10.634
+80|85 5.0018 0.4679 10.690
+85|90 5.6575 0.5816 9.728

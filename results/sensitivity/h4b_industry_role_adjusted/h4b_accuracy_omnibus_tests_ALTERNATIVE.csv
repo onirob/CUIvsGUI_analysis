@@ -1,0 +1,4 @@
+Effect,chi2,df,p
+PRIMARY: TASK adjusted for interface and industry_role,229.538513252909,2,1.4333265812260372e-50
+CONTROL: INTERFACE adjusted for task and industry_role,1.6388785664967196,1,0.20047940272318868
+CONTROL: INDUSTRY_ROLE adjusted for task and interface,0.002291013376603293,2,0.998855149154037

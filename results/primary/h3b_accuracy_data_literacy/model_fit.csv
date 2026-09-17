@@ -1,0 +1,3 @@
+model,nobs,n_params,working_corr,dep_param_est,QIC,QICu
+additive,393,6,exchangeable,0.05189545957387444,94.892066722029,106.42216820064147
+full_interaction,393,8,exchangeable,0.04224550206727544,93.86253301379328,109.27562887859943

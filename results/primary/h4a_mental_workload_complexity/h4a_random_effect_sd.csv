@@ -1,0 +1,3 @@
+model,group,coef_name,variance_random_effect,sd_random_effect,source
+null_interface_only,participant_id,(Intercept),0.41431764875704713,0.6436751111834659,model$ST
+additive_complexity,participant_id,(Intercept),0.8847735525895644,0.9406240229706896,model$ST

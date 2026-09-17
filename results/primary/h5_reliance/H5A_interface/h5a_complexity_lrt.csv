@@ -1,0 +1,7 @@
+no.par,AIC,logLik,LR.stat,df,Pr(>Chisq),item_key,effect
+8,1505.5576701574687,-744.7788350787343,NA,NA,NA,r1,complexity_main_effect_adjusted_for_interface
+10,1389.4309090078277,-684.7154545039139,120.12676114964097,2,8.218740192084192e-27,r1,complexity_main_effect_adjusted_for_interface
+8,1546.6244943622255,-765.3122471811128,NA,NA,NA,r2,complexity_main_effect_adjusted_for_interface
+10,1451.6526174309238,-715.8263087154619,98.97187693130172,2,3.2250020316552064e-22,r2,complexity_main_effect_adjusted_for_interface
+8,1459.892791619226,-721.946395809613,NA,NA,NA,r3,complexity_main_effect_adjusted_for_interface
+10,1385.4146457487636,-682.7073228743818,78.47814587046241,2,9.092580385171205e-18,r3,complexity_main_effect_adjusted_for_interface

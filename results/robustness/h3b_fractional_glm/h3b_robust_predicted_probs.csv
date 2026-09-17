@@ -1,0 +1,7 @@
+interface,dl_ord,pred_accuracy
+chatbot,low,0.8155865796764153
+chatbot,medium,0.7330017775166878
+chatbot,high,0.7829358720959377
+dashboard,low,0.688978635981309
+dashboard,medium,0.7307794552864083
+dashboard,high,0.7436321116701099

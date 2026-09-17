@@ -1,0 +1,4 @@
+dl_ord,lower_inclusive,lower_exclusive,upper_inclusive,upper_exclusive,rule
+low,1,NA,5,NA,1 <= bdli_mean <= 5
+medium,NA,5,6,NA,5 < bdli_mean <= 6
+high,NA,6,7,NA,6 < bdli_mean <= 7

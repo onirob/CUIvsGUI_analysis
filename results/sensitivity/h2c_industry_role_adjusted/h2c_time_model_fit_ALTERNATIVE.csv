@@ -1,0 +1,3 @@
+model,nobs,n_params,working_corr,dep_param_est,scale,QIC,QICu
+additive_adjusted_for_industry_role,402,6,exchangeable,0.2827819924842735,0.22318237771248706,880389.9726659892,468.6605092033975
+full_interaction_adjusted_for_industry_role,402,8,exchangeable,0.34328428321623056,0.2116641154101385,1089493.7227398222,471.161848605272

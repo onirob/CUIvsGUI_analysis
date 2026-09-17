@@ -1,0 +1,2 @@
+model,nobs,n_params,working_corr,dep_param_est,scale,QIC,QICu
+H4c_gamma_log_GEE_adjusted_for_industry_role,402,6,exchangeable,0.2827819924842735,0.22318237771248706,880389.9726659892,468.6605092033975

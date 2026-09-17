@@ -1,0 +1,47 @@
+Cumulative Link Mixed Model fitted with the adaptive Gauss-Hermite 
+quadrature approximation with 10 quadrature points 
+
+formula: y_ord ~ industry_role + interface_cond + dl_ord + task_complexity + 
+ (1 | participant_id)
+data: df
+
+ link threshold nobs logLik AIC niter max.grad cond.H 
+ probit flexible 402 -1009.17 2070.34 4936(14672) 2.24e-03 3.5e+03
+
+Random effects:
+ Groups Name Variance Std.Dev.
+ participant_id (Intercept) 0.8592 0.9269 
+Number of groups: participant_id 134 
+
+Coefficients:
+ Estimate Std. Error z value Pr(>|z|) 
+industry_roleMiddle Management 0.20232 0.27041 0.748 0.45435 
+industry_roleUpper Management 0.04396 0.32167 0.137 0.89129 
+interface_conddashboard 1.10887 0.19738 5.618 1.93e-08 ***
+dl_ordmedium -0.12156 0.29039 -0.419 0.67552 
+dl_ordhigh -0.37703 0.32188 -1.171 0.24146 
+task_complexitymid 0.41489 0.12723 3.261 0.00111 ** 
+task_complexityhard 1.53601 0.14226 10.798 < 2e-16 ***
+---
+Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Threshold coefficients:
+ Estimate Std. Error z value
+0|5 -1.35779 0.35799 -3.793
+5|10 -0.53891 0.34748 -1.551
+10|15 -0.01744 0.34618 -0.050
+15|20 0.42286 0.34701 1.219
+20|25 0.82228 0.34922 2.355
+25|30 1.09641 0.35148 3.119
+30|35 1.34705 0.35367 3.809
+35|40 1.56586 0.35574 4.402
+40|45 1.92740 0.35931 5.364
+45|50 2.10212 0.36094 5.824
+50|55 2.38963 0.36364 6.571
+55|60 2.68984 0.36689 7.332
+60|65 3.17907 0.37443 8.491
+65|70 3.50044 0.38133 9.179
+70|75 4.01912 0.39856 10.084
+75|80 4.44817 0.42186 10.544
+80|85 4.75839 0.44926 10.592
+85|90 5.41328 0.56698 9.548

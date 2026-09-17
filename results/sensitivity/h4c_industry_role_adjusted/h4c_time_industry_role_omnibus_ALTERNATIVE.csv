@@ -1,0 +1,4 @@
+analysis,test,statistic_name,statistic,df,p_value,n
+Industry role vs participant-level completion time,Kruskal-Wallis,H,1.9674767153960033,2.0,0.3739106709969397,134
+Ordinal trend: industry role code vs participant-level completion time,Spearman rank correlation,rho,-0.013470735018026014,,0.8772303837751734,134
+Industry role balance across interface condition,Chi-square,X-squared,1.0786038165266096,2.0,0.5831552061425502,134

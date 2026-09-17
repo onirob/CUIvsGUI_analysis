@@ -1,0 +1,25 @@
+ GEE Regression Results 
+===================================================================================
+Dep. Variable: time_s No. Observations: 402
+Model: GEE No. clusters: 134
+Method: Generalized Min. cluster size: 3
+ Estimating Equations Max. cluster size: 3
+Family: Gamma Mean cluster size: 3.0
+Dependence structure: Exchangeable Num. iterations: 2
+Date: Mon, 30 Mar 2026 Scale: 0.222
+Covariance type: robust Time: 10:38:38
+==============================================================================================================================
+ coef std err z P>|z| [0.025 0.975]
+------------------------------------------------------------------------------------------------------------------------------
+Intercept 4.3540 0.138 31.504 0.000 4.083 4.625
+C(dl_ord, Treatment(reference='low'))[T.medium] 0.2729 0.147 1.859 0.063 -0.015 0.561
+C(dl_ord, Treatment(reference='low'))[T.high] 0.2862 0.152 1.885 0.059 -0.011 0.584
+C(task_code, Treatment(reference='T1'))[T.T2] 0.6564 0.047 13.945 0.000 0.564 0.749
+C(task_code, Treatment(reference='T1'))[T.T3] 1.2682 0.055 23.199 0.000 1.161 1.375
+iface_dash 0.0345 0.182 0.190 0.850 -0.322 0.391
+iface_dash:C(dl_ord, Treatment(reference='low'))[T.medium] -0.0267 0.198 -0.134 0.893 -0.416 0.362
+iface_dash:C(dl_ord, Treatment(reference='low'))[T.high] 0.0281 0.202 0.139 0.890 -0.369 0.425
+==============================================================================
+Skew: 0.3869 Kurtosis: 0.6173
+Centered skew: 0.3124 Centered kurtosis: -0.3232
+==============================================================================

@@ -1,0 +1,4 @@
+Effect,chi2,df,p
+PRIMARY: COMPLEXITY adjusted for interface and industry_role,562.5790398541227,2,6.878815773645416e-123
+CONTROL: INTERFACE adjusted for complexity and industry_role,0.377709514850291,1,0.5388316214870075
+CONTROL: INDUSTRY_ROLE adjusted for complexity and interface,2.1331140516401956,2,0.34419152224658606

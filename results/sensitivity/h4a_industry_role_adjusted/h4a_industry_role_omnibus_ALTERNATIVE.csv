@@ -1,0 +1,4 @@
+analysis,test,statistic_name,statistic,df,p.value,effect_name,effect_size,n
+Industry role vs participant-level NASA-TLX,Kruskal-Wallis,H,1.153078513870828,2,0.5618393877048307,epsilon_squared,0,134
+Ordinal trend: industry role code vs participant-level NASA-TLX,Spearman rank correlation,rho,0.026895733729391337,NA,0.7577174169260045,rho,0.026895733729391337,134
+Industry role balance across interface condition,Chi-square,X-squared,1.0786038165266096,2,0.5831552061425503,NA,NA,134

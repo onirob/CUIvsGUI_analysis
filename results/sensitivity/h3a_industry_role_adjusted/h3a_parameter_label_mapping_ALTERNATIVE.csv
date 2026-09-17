@@ -1,0 +1,10 @@
+symbolic_label,model_term,meaning
+beta1,interface_conddashboard,"dashboard vs chatbot at low DL, adjusted for industry_role"
+beta2,dl_ordmedium,"medium vs low DL within chatbot, adjusted for industry_role"
+beta3,dl_ordhigh,"high vs low DL within chatbot, adjusted for industry_role"
+beta4,interface_conddashboard:dl_ordmedium,"change in dashboard-chatbot gap at medium DL vs low DL, adjusted for industry_role"
+beta5,interface_conddashboard:dl_ordhigh,"change in dashboard-chatbot gap at high DL vs low DL, adjusted for industry_role"
+beta6,task_complexitymid,"task complexity mid vs easy, adjusted for interface, DL, and industry_role"
+beta7,task_complexityhard,"task complexity hard vs easy, adjusted for interface, DL, and industry_role"
+control_role_middle,industry_roleMiddle Management,"Middle Management vs Junior Management, control effect"
+control_role_upper,industry_roleUpper Management,"Upper Management vs Junior Management, control effect"

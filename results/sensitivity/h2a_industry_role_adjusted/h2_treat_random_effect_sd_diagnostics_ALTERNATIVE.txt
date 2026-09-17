@@ -1,0 +1,5 @@
+Random-effect extraction diagnostics - ALTERNATIVE adjusted model
+additive rows: 1
+interaction rows: 1
+additive source(s): model$ST
+interaction source(s): model$ST

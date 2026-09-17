@@ -1,0 +1,4 @@
+item_key,model,group,coef_name,variance_random_effect,sd_random_effect,source
+r1,interaction,participant_id,(Intercept),0.9879093382270032,0.9939362847924424,model$ST
+r2,interaction,participant_id,(Intercept),0.5241720820731846,0.7239972942443809,model$ST
+r3,interaction,participant_id,(Intercept),0.865685574386542,0.9304222559604548,model$ST

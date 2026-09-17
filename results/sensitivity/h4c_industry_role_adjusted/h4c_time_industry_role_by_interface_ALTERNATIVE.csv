@@ -1,0 +1,7 @@
+interface_cond,industry_role,n,prop_within_interface
+dashboard,Junior Management,10,0.14285714285714285
+dashboard,Middle Management,43,0.6142857142857143
+dashboard,Upper Management,17,0.24285714285714285
+chatbot,Junior Management,11,0.171875
+chatbot,Middle Management,42,0.65625
+chatbot,Upper Management,11,0.171875

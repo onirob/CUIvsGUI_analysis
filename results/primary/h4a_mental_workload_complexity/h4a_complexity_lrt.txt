@@ -1,0 +1,11 @@
+Likelihood ratio tests of cumulative link models:
+ 
+ formula: link: threshold:
+m_null form_null probit flexible 
+m_add form_add probit flexible 
+
+ no.par AIC logLik LR.stat df Pr(>Chisq) 
+m_null 20 2188.5 -1074.3 
+m_add 22 2065.2 -1010.6 127.3 2 < 2.2e-16 ***
+---
+Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

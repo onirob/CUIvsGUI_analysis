@@ -1,0 +1,4 @@
+analysis,test,statistic_name,statistic,df,p.value,effect_name,effect_size,n
+Industry role vs participant-level reliance,Kruskal-Wallis,H,0.6997374545533276,2,0.7047806021153977,epsilon_squared,0,134
+Ordinal trend: industry role code vs participant-level reliance,Spearman rank correlation,rho,0.016550409872186124,NA,0.8494635428555869,rho,0.016550409872186124,134
+Industry role balance across interface condition,Chi-square,X-squared,1.0786038165266096,2,0.5831552061425503,NA,NA,134

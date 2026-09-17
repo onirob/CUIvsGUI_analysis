@@ -1,0 +1,2 @@
+model,nobs,n_params,working_corr,dep_param_est,QIC,QICu
+H4b_fractional_logit_GEE_adjusted_for_industry_role,399,6,exchangeable,0.05192579705701235,98.43947911358937,109.9237080737247

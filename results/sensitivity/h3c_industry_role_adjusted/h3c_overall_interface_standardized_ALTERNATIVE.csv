@@ -1,0 +1,2 @@
+model,adj_mean_dashboard,adj_mean_chatbot,diff_time_s,diff_time_CI_low_boot,diff_time_CI_high_boot,ratio_time_dashboard_chatbot,ratio_time_CI_low_boot,ratio_time_CI_high_boot
+full_interaction_adjusted_standardized,220.3265795890098,214.54971721325379,5.776862375756025,-19.170836054678578,30.80978821454588,1.0269255184802413,0.9168280059367713,1.1548626600257643
