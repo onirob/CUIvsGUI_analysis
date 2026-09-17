@@ -1,4 +1,4 @@
-# Study 2 Analysis Repository
+# What is this Repository
 
 This repository contains the analysis code and non-disclosive results for Figliè et al. (2026), *Neither Replacement nor Panacea: Comparing LLM-Based Conversational and Graphical Decision Support in Industrial Tasks*.
 
