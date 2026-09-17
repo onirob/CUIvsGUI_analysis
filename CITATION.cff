@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software and the associated article described in preferred-citation."
+
+title: "Analysis and Reproducibility - LLM-Based Conversational vs Graphical Decision Support"
+type: software
+
+# Software authors should reflect contributions to the repository/software itself,
+# independently of article authorship.
+authors:
+  - family-names: "Figliè"
+    given-names: "Roberto"
+  - family-names: "Caputo"
+    given-names: "Simone"
+
+abstract: >-
+  Analysis and reproducibility repository accompanying Figliè et al. (2026),
+  "Neither Replacement nor Panacea: Comparing LLM-Based Conversational and
+  Graphical Decision Support in Industrial Tasks". It contains the code used
+  to process experimental data, compute task-performance measures, conduct
+  statistical analyses, and generate the results reported in the article.
+  The article is the primary methodological reference.
+
+keywords:
+  - human-computer interaction
+  - decision support
+  - large language models
+  - conversational user interfaces
+  - graphical user interfaces
+  - statistical analysis
+  - reproducibility
+  - human-AI interaction
+
+preferred-citation:
+  type: article
+  title: "Neither Replacement nor Panacea: Comparing LLM-Based Conversational and Graphical Decision Support in Industrial Tasks"
+  authors:
+    - family-names: "Figliè"
+      given-names: "Roberto"
+    - family-names: "Caputo"
+      given-names: "Simone"
+    - family-names: "Serrano"
+      given-names: "Alan"
+    - family-names: "Mikhaylova"
+      given-names: "Daria"
+    - family-names: "Turchi"
+      given-names: "Tommaso"
+    - family-names: "Mazzei"
+      given-names: "Daniele"
+  year: 2026
+  doi: "10.48550/arXiv.2605.31287"
+  url: "https://arxiv.org/abs/2605.31287"
