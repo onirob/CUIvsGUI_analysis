@@ -1,6 +1,6 @@
-# What is this Repository
+# Analysis and Reproducibility
 
-This repository contains the analysis code and non-disclosive results for Figliè et al. (2026), *Neither Replacement nor Panacea: Comparing LLM-Based Conversational and Graphical Decision Support in Industrial Tasks*.
+This repository contains the analysis code and results for Figliè et al. (2026), *Neither Replacement nor Panacea: Comparing LLM-Based Conversational and Graphical Decision Support in Industrial Tasks*.
 
 ## Reporting authority
 
